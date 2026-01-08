@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "猫リセット",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-01-08T14:20:56.536014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "猫リセット",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_猫リセット_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "猫リセット",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_猫リセット_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "猫リセット - Neko Reset",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_猫リセット_-_Neko_Reset_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "猫リセット (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_猫リセット_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "猫リセット (Instrumental)",
+      "artist": "Zutomayo",
+      "has_synced": true,
+      "path": "select/05_猫リセット_(Instrumental)_Zutomayo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猫リセット",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_猫リセット_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "猫リセット",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_猫リセット_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "猫リセット",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_猫リセット_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "猫リセット",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_猫リセット_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
